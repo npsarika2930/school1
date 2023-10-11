@@ -1,0 +1,18 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+a {
+   text-decoration: none; 
+}
+a:hover{
+    color: rgb(223, 86, 86) !important;
+    transition: 0.3s all;
+}
+.inner-banner{
+    background-image: url(../img/background.jpg);
+    height:270px;
+    width:100%;
+    background-repeat: no-repeat;
+}
